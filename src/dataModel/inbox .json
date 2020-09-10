@@ -1,0 +1,38 @@
+[
+	{
+		"mId": "guid-1",
+		"unread": true,
+		"subject": "Training Program powering",
+		"content": "About Microsoft Virtual Academy<br/>Microsoft Virtual Academy provides free online training by world-class experts to help you build your technical skills and advance your career. Make it your destination of choice to get started on the latest Microsoft technologies and join this vibrant community."
+	},
+	{
+		"mId": "guid-2",
+		"unread": false,
+		"subject": "Empower your future powering",
+		"content": "We foster our pipeline of future leaders with 47 employee networks and 7 global employee resource groups, servicing an active community of thousands across Microsoft"
+	},
+	{
+		"mId": "guid-3",
+		"unread": true,
+		"subject": "Digita engg your future powering",
+		"content": "Digital engineering is the art of creating, capturing and integrating data using a digital skillset. From drawings to simulations and 3D models, engineers are increasingly using advanced technologies to capture data and craft design in a digitised environment."
+	},
+	{
+		"mId": "guid-4",
+		"unread": false,
+		"subject": "React Program",
+		"content": "React is an open-source JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page"
+	},
+	{
+		"mId": "guid-5",
+		"unread": true,
+		"subject": "JavaScript future powering",
+		"content": "A possible future. Web assembly is a binary format that can be natively decoded, in all browsers, much faster than JS can be parsed. This is a term that has been buzzing around in the developer community. It could actually become the most adopted in the near future as complement to JavaScript."
+	},
+	{
+		"mId": "guid-6",
+		"unread": true,
+		"subject": "The beast powering JavaScript",
+		"content": "A possible future. Web assembly is a binary format that can be natively decoded, in all browsers, much faster than JS can be parsed. This is a term that has been buzzing around in the developer community. It could actually become the most adopted in the near future as complement to JavaScript."
+	}
+]
